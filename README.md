@@ -2,6 +2,7 @@
 
 ## Certifications
 * Programming 1 USOE Certification
+![Certification score](https://github.com/afdfadfsadffsd/programmingportfolio/blob/main/images/Certification%20score.png)
 
 ## Group Project
 
