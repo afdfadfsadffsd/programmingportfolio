@@ -30,3 +30,8 @@ OOP graphics application that simply demonstrates collision detection
 OOP graphics application that uses the WASD keys to draw images on the screen and saves the drawing each time
 ![Etch-A-Sketch](https://github.com/afdfadfsadffsd/programmingportfolio/blob/main/images/Etch%20a%20sketch.png)
 ![SourceCode](https://github.com/afdfadfsadffsd/programmingportfolio/blob/main/src/EtchASketch.pde)
+
+### Number Guessing Game in C++
+User-friendly number guessing game in c++ that keeps track of your guesses
+![NumberGuessingGame]()
+![SourceCode](https://github.com/afdfadfsadffsd/programmingportfolio/blob/main/src/RandomNumberGuessingGame%20(3)%20(1).cpp)
