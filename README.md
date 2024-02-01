@@ -25,3 +25,8 @@ OOP graphics based calculator with gui interface including over 22 interactable 
 OOP graphics application that simply demonstrates collision detection
 ![Collision Detection](https://github.com/afdfadfsadffsd/programmingportfolio/blob/main/images/Collision%20Detection.png)
 ![SourceCode](https://github.com/afdfadfsadffsd/programmingportfolio/blob/main/src/ColDet.pde)
+
+### Etch a sketch
+OOP graphics application that uses the WASD keys to draw images on the screen and saves the drawing each time
+![Etch-A-Sketch](https://github.com/afdfadfsadffsd/programmingportfolio/blob/main/images/Etch%20a%20sketch.png)
+![SourceCode]()
