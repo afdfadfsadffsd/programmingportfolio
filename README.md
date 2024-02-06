@@ -23,15 +23,15 @@ OOP graphics based calculator with gui interface including over 22 interactable 
 
 ### Collision detector
 OOP graphics application that simply demonstrates collision detection
-![Collision Detection](https://github.com/afdfadfsadffsd/programmingportfolio/blob/main/images/Collision%20Detection.png)
+![Collision Detection](https://github.com/afdfadfsadffsd/programmingportfolio/blob/main/images/Collision%20Detection.png?raw=true)
 ![SourceCode](https://github.com/afdfadfsadffsd/programmingportfolio/blob/main/src/ColDet.pde)
 
 ### Etch a sketch
 OOP graphics application that uses the WASD keys to draw images on the screen and saves the drawing each time
-![Etch-A-Sketch](https://github.com/afdfadfsadffsd/programmingportfolio/blob/main/images/Etch%20a%20sketch.png)
+![Etch-A-Sketch](https://github.com/afdfadfsadffsd/programmingportfolio/blob/main/images/Etch%20a%20sketch.png?raw=true)
 ![SourceCode](https://github.com/afdfadfsadffsd/programmingportfolio/blob/main/src/EtchASketch.pde)
 
 ### Number Guessing Game in C++
 User-friendly number guessing game in c++ that keeps track of your guesses
-![NumberGuessingGame](https://github.com/afdfadfsadffsd/programmingportfolio/blob/main/images/NumberGuessingGame.png)
+![NumberGuessingGame](https://github.com/afdfadfsadffsd/programmingportfolio/blob/main/images/NumberGuessingGame.png/raw=true)
 ![SourceCode](https://github.com/afdfadfsadffsd/programmingportfolio/blob/main/src/RandomNumberGuessingGame%20(3)%20(1).cpp)
