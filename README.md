@@ -33,5 +33,5 @@ OOP graphics application that uses the WASD keys to draw images on the screen an
 
 ### Number Guessing Game in C++
 User-friendly number guessing game in c++ that keeps track of your guesses
-![NumberGuessingGame](https://github.com/afdfadfsadffsd/programmingportfolio/blob/main/images/NumberGuessingGame.png?raw=true)
+![NumberGuessingGame](https://github.com/afdfadfsadffsd/programmingportfolio/blob/main/images/Numberguessing.png?raw=true)
 [SourceCode](https://github.com/afdfadfsadffsd/programmingportfolio/blob/main/src/RandomNumberGuessingGame%20(3)%20(1).cpp)
