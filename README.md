@@ -4,6 +4,8 @@
 * Programming 1 USOE Certification
 ![Certification score](https://github.com/afdfadfsadffsd/programmingportfolio/blob/main/images/Certification%20score.png?raw=true)
 
+## Acheivements
+* 3rd Place in FBLA Intro to Programming event at the State Level.
 ## Group Project
 
 ## Individual Projects
