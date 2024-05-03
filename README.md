@@ -8,6 +8,8 @@
 ## Acheivements
 * 3rd Place in FBLA Intro to Programming event at the State Level.
 ## Group Project
+### Amnesia
+A fun, textbased adventure game in c++ that uses ascii art and creative storylines to captivate the attention the user.
 [GroupProjectRepository](https://github.com/AllLiver/Amnesia.git)
 ## Individual Projects
 ### First, Second, and Third Quarters
