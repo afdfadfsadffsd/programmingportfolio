@@ -43,5 +43,5 @@ User-friendly number guessing game in c++ that keeps track of your guesses
 
 ### Fourth Quarter 
 ### Hangman in C++
-A standard Hangman game that is shellbased in c++ which has a collection of 130 words to randomly choose from to guess. For every guess wrong, a new body part is added to the hangman, and you lose if you use all of your 6 guesses.
+A standard Hangman game that is shellbased in c++ which has a collection of 130 words to randomly choose from to guess. For every guess wrong, a new body part is added to the hangman, which is displayed with ascii art, and you lose if you use all of your 6 guesses.
 [HangmanRepository](https://github.com/afdfadfsadffsd/IndividualProject.git)
