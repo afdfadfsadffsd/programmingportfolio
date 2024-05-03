@@ -40,3 +40,8 @@ OOP graphics application that uses the WASD keys to draw images on the screen an
 User-friendly number guessing game in c++ that keeps track of your guesses
 ![Numberguessinggame](https://github.com/afdfadfsadffsd/programmingportfolio/blob/main/images/Numberguessing.png?raw=true)
 [SourceCode](https://github.com/afdfadfsadffsd/programmingportfolio/blob/main/src/RandomNumberGuessingGame%20(3)%20(1).cpp)
+
+### Fourth Quarter 
+### Hangman in C++
+A standard Hangman game that is shellbased in c++ which has a collection of 130 words to randomly choose from to guess. For every guess wrong, a new body part is added to the hangman, and you lose if you use all of your 6 guesses.
+[HangmanRepository](https://github.com/afdfadfsadffsd/IndividualProject.git)
