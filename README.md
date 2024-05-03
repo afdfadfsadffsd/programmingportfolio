@@ -1,6 +1,5 @@
 # Sreeram Patcha | Programming Portfolio 
-
-##Contact Info: sreerampatcha723@gmail.com
+## Contact Info: sreerampatcha723@gmail.com
 
 ## Certifications
 * Programming 1 USOE Certification
