@@ -7,9 +7,9 @@
 ## Acheivements
 * 3rd Place in FBLA Intro to Programming event at the State Level.
 ## Group Project
-
+[GroupProjectRepository](https://github.com/AllLiver/Amnesia.git)
 ## Individual Projects
-
+### First, Second, and Third Quarters
 ### SpaceGame
 OOP graphics game spotlighting objects for user interaction that include sound and animation
 ![Spacegame Menu](https://github.com/afdfadfsadffsd/programmingportfolio/blob/main/images/SG1.png?raw=true)
